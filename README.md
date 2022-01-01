@@ -2,6 +2,7 @@
 
 # Description: 
   A Minecraft Server manager called WrapperCraft made with Python.
+  
 # Author:
   Gaming On Insulin
 
@@ -9,14 +10,22 @@
   https://github.com/gamingoninsulin/WrapperCraft/blob/master/LICENSE.md
 
 # Made With:
-  Python 3.9.7
+  - Python 3.9.7
+  
+  - Git
 
-  Visual Studio Code
+  - SublimeText (small tweaks)
+  
+  - Visual Studio Code (heay Tweaking)
 
-  PyQt6==6.2.2
-  PyQt6-Qt6==6.2.2
-  PyQt6-sip==13.2.0
-  PyQt5Designer==5.14.1
+# Installed Packages:
+  - PyQt6 = 6.2.2
+  
+  - PyQt6-Qt6 = 6.2.2
+  
+  - PyQt6-sip = 13.2.0
+  
+  - PyQt5Designer = 5.14.1
 
 # Specials:
   Twitter: https://www.twitter.com/gamingoninsulin 

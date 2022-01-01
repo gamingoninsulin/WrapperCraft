@@ -1,4 +1,4 @@
-# WrapperCraft Version 0.1-SNAPSHOT
+# WrapperCraft Version 0.0.1-SNAPSHOT
 
 # Description: 
   A Minecraft Server manager called WrapperCraft made with Python.

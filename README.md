@@ -1,13 +1,13 @@
 # WrapperCraft Version 0.0.2-SNAPSHOT
 
 # Description: 
-  A Minecraft Server manager called WrapperCraft made with Python.
+&nbsp; A Minecraft Server manager called WrapperCraft made with Python.
   
 # Author:
-  Gaming On Insulin
+&nbsp; Gaming On Insulin
 
 # License:
-  https://github.com/gamingoninsulin/WrapperCraft/blob/master/LICENSE.md
+&nbsp; https://github.com/gamingoninsulin/WrapperCraft/blob/master/LICENSE.md
 
 # Made With:
   - Python 3.9.7
@@ -28,13 +28,13 @@
   - PyQt5Designer = 5.14.1
 
 # Specials:
-  Twitter: https://www.twitter.com/gamingoninsulin 
-  GitHub: https://github.com/gamingoninsulin/WrapperCraft
+&nbsp; Twitter: https://www.twitter.com/gamingoninsulin 
+&nbsp; GitHub: https://github.com/gamingoninsulin/WrapperCraft
 
 ---
 
 # Change Log:
-  ## 0.0.1-SNAPSHOT
-  - Looking up Reffrence for Ideas.
-  ## 0.02-SPANSHOT
-  - building the GUI trough PyQt5Designer
+&nbsp; 0.0.1-SNAPSHOT
+&nbsp; &nbsp; Looking up Reffrence for Ideas.
+&nbsp; 0.02-SPANSHOT
+&nbsp; &nbsp; building the GUI trough PyQt5Designer

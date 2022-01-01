@@ -4,20 +4,14 @@
   <p>
   A Minecraft Server manager called WrapperCraft made with Python.
   </p>
-</blockquote>
-<blockquote>
   <h3>Author:</h2>
   <p>
     Gaming On Insulin  
   </p>
-</blockquote>
-<blockquote>
   <h2><b>License:</b></h2>
   <p>
     https://github.com/gamingoninsulin/WrapperCraft/blob/master/LICENSE.md
   </p>
-</blockquote>
-<blockquote>
   <h2><b>Made With:</b></h2>
   <p>
      Python 3.9.7
@@ -28,8 +22,6 @@
         <br><br>
      Visual Studio Code (heay Tweaking)
   </p>
-</blockquote>
-<blockquote>
   <h2><b>Installed Packages:</b></h2>
   <p>
     PyQt6 = 6.2.2
@@ -40,15 +32,11 @@
         <br><br>
      PyQt5Designer = 5.14.1
   </p>
-</blockquote>
-<blockquote>
   <h2><b>Specials:</b></h2>
   <p>
     Twitter: https://www.twitter.com/gamingoninsulin <br>
     GitHub: https://github.com/gamingoninsulin/WrapperCraft
   </p>
-</blockquote>
-<blockquote>
   <h2><b>Change Log:</b></h2>
   <p><p>
   <h6>0.0.1-SNAPSHOT<h6>

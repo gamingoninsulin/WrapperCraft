@@ -30,7 +30,9 @@
 # Specials:
   Twitter: https://www.twitter.com/gamingoninsulin 
   GitHub: https://github.com/gamingoninsulin/WrapperCraft
-<hr>
+
+---
+
 # Change Log:
   ## 0.0.1-SNAPSHOT
   - Looking up Reffrence for Ideas.

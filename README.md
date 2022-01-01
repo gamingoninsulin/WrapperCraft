@@ -1,5 +1,4 @@
-# WrapperCraft Version 0.0.2-SNAPSHOT
-<blockquote>
+<h1><i><b>WrapperCraft Version 0.0.2-SNAPSHOT</b></i></h1>
   <h2> Description:</h2> 
   <p>
   A Minecraft Server manager called WrapperCraft made with Python.
@@ -39,11 +38,10 @@
   </p>
   <h2><b>Change Log:</b></h2>
   <p><p>
-  <h6>0.0.1-SNAPSHOT<h6>
+  <h6>0.0.1-SNAPSHOT:<h6>
     Looking up Reffrence for Ideas.
   </p></p>
   <p><p>
-  <h6>0.02-SPANSHOT</h6>
+  <h6>0.02-SPANSHOT:</h6>
     building the GUI trough PyQt5Designer
   </p></p>
-</blockquote>

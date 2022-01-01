@@ -34,7 +34,7 @@
 ---
 
 # Change Log:
-&nbsp; 0.0.1-SNAPSHOT
-&nbsp; &nbsp; Looking up Reffrence for Ideas.
-&nbsp; 0.02-SPANSHOT
-&nbsp; &nbsp; building the GUI trough PyQt5Designer
+&ensp; 0.0.1-SNAPSHOT
+&ensp; &ensp; Looking up Reffrence for Ideas.
+&ensp; 0.02-SPANSHOT
+&ensp; &ensp; building the GUI trough PyQt5Designer
